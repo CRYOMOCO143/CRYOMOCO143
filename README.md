@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**CRYOMOCO143/CRYOMOCO143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CRYOMOCO143/sachinpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
